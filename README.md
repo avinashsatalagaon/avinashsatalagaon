@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinashsatalagaon" alt="avinashsatalagaon" /></a> </p>
 
-- 🔭 I’m currently working on **Obstacle Avoidance Robot**
+- 🔭 I’m currently working on **Data Analysis**
 
 - 🌱 I’m currently learning **Cybersecurity & Network Security**
 
@@ -20,6 +20,13 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1JkWKp0I0pQxDvQ1f_-90QZNR4DhU_96n/view?usp=drive_link](https://drive.google.com/file/d/1JkWKp0I0pQxDvQ1f_-90QZNR4DhU_96n/view?usp=drive_link)
 
 - ⚡ Fun fact **I love building interactive AR/VR projects and experimenting with AI-driven IoT solutions!**
+ - 🧠 **Skills:**  
+  - Data Analysis (Python, Pandas, NumPy, Excel)  
+  - Data Visualization (Matplotlib, Seaborn, Power BI)  
+  - Machine Learning (scikit-learn, basic models)  
+  - Cybersecurity fundamentals  
+  - AR/VR & Unity 3D  
+  - Embedded Systems (Arduino, Raspberry Pi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
