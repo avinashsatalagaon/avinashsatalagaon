@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinashsatalagaon" alt="avinashsatalagaon" /></a> </p>
 
-- 🔭 I’m currently working on **Data Analysis**
+- 🔭 I’m currently working on **Data Science**
 
 - 🌱 I’m currently learning **Cybersecurity & Network Security**
 
